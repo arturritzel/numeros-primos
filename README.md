@@ -24,5 +24,5 @@ estudo sobre leitura/gravação de arquivos
 - .
 
 ### known-issues
-- Resolvido: ~colocar letras ou números decimais em entradas de menu causam um looping infinito ou interrupção do código~
+- .
 - .
