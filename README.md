@@ -12,7 +12,7 @@ estudo sobre leitura/gravação de arquivos
 - [x] 1. ![](https://geps.dev/progress/100) testes com leitura/gravacao de arquivos de texto
 - [x] 2. ![](https://geps.dev/progress/100) opção de teste de um número primo específico
 - [x] 3. ![](https://geps.dev/progress/100) função para calcular altas quantidades de números primos
-- [ ] 4. ![](https://geps.dev/progress/75) opções de análise dos números obtidos até então
+- [ ] 4. ![](https://geps.dev/progress/75) opções de análise dos números obtidos até então ~~// sinceramente eu não sei mais quais opções dar pro usuário
 - [ ] 5. ![](https://geps.dev/progress/50) otimização da interface para o usuário
 - [ ] 6. ![](https://geps.dev/progress/85) comemorar depois que tudo der certo :tada:
 
