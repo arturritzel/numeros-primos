@@ -1,3 +1,10 @@
+## esse codigo ta muito feio horroroso e podre. eu quero reescrever ele todo
+anotacoes pra eu me lembrar do que adicionar/mudar depois:
+- verificar direito se o arquivo existe com infile.good (ao inves de ficar sentado esperando erro e encerrar o programa)
+- usar ponteiro ao inves de ficar passando trocentas variáveis pra lá e pra cá
+- tomar vergonha na cara e usar class
+
+
 # números primos
 projeto que calcula números primos afim de analisar e gerar estatísticas com os números obtidos, como frequência de números primos em um intervalo específico.
 
